@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif" width="200"/>
 
 <h1>
   Pustaka Booking - Web Programming III
