@@ -3,7 +3,7 @@
 
 <h1>
   Pustaka Booking - Web Programming III
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif)" width="30px"/>
+  <img src="https://media.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif" width="30px"/>
 </h1>
 
 ### :hammer_and_wrench: Pustaka Booking - Languages and Tools :
