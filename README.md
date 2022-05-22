@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif" width="200"/>
 
 <h1>
+	<img src="https://media.giphy.com/media/5uVVzEwlWA7iGoW8yg/giphy.gif" width="50px"/>
   Pustaka Booking - Web Programming III
-  <img src="https://media.giphy.com/media/5uVVzEwlWA7iGoW8yg/giphy.gif" width="30px"/>
 </h1>
 
 ### :hammer_and_wrench: Pustaka Booking - Languages and Tools :
